@@ -55,9 +55,9 @@ afterEvaluate{
             release(MavenPublication){
                 from components.release
 
-                groupId='com.github.axeldeploy'
+                groupId='com.github.tokbaev-a'
                 artifactId = 'sdk'
-                version = '0.0.11'
+                version = '1.0.0'
             }
         }
     }
