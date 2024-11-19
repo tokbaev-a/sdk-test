@@ -1,19 +1,19 @@
-SDK Deployment Guide
+# SDK Deployment Guide
 
 ## Step 1: Upload the SDK to Your GitHub Repository
 
 1. **Download the SDK ZIP file**  
 
 2. **Create a new repository**  
-   Go to your GitHub account and create a new repository for the SDK.  
-   Example repository name: `uptick-sdk`
+Go to your GitHub account and create a new repository for the SDK.  
+Example repository name: `uptick-sdk`
 
 3. **Extract the ZIP file**  
-   Unzip the previously downloaded ZIP file on your computer.
+Unzip the previously downloaded ZIP file on your computer.
 
 4. **Upload files to GitHub**  
-   Drag and drop the unzipped files into your new repository.  
-   Commit the changes (e.g., "Initial commit of SDK").
+Drag and drop the unzipped files into your new repository.  
+Commit the changes (e.g., "Initial commit of SDK").
 
 ---
 
